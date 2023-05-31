@@ -2,3 +2,7 @@ github.com/shabir67/go-say-hello v1.0.0 h1:tlms/0YF917w6vXWE2AbSDQlChd0HvnAPlDPt
 github.com/shabir67/go-say-hello v1.0.0/go.mod h1:q/A467g3RA1f7uifdt+OXOO4sRo2ueRvVqllCHxI8Dg=
 github.com/shabir67/go-say-hello v1.0.1 h1:/1SHQS3Yrf3jDXoQGdXmw5MNhb77ErUFL5chyKgcYHg=
 github.com/shabir67/go-say-hello v1.0.1/go.mod h1:q/A467g3RA1f7uifdt+OXOO4sRo2ueRvVqllCHxI8Dg=
+github.com/shabir67/go-say-hello/v2 v2.0.0 h1:7fZ/beOkDrbV9NktxJh6uca1f2ADjF6snYSf5K6iNWE=
+github.com/shabir67/go-say-hello/v2 v2.0.0/go.mod h1:nXbYGXQHSjIBxNczxvMXjjDr5J4Rel+L2A1uzHs02sE=
+github.com/shabir67/go-say-hello/v2 v2.0.1 h1:ilkxfL9a3K6aWluZuTshPFpYxfscfQvGV+ajq3XlAHw=
+github.com/shabir67/go-say-hello/v2 v2.0.1/go.mod h1:nXbYGXQHSjIBxNczxvMXjjDr5J4Rel+L2A1uzHs02sE=
