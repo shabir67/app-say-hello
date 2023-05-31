@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	hello := gosayhello.SayHello()
-	fmt.Println(hello, "Joko")
+	hello := gosayhello.SayHello(" Joko")
+	fmt.Println(hello)
 }
